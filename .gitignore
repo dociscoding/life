@@ -1,0 +1,6 @@
+# Ignore all .env files recursively
+*.env
+.env
+/be/
+.DS_Store
+node_modules/ 
