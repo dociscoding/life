@@ -1,0 +1,21 @@
+{
+  "error_banner_header": "Oops! Qualcosa è andato storto",
+  "missing_fields_login_error": "Perfavore, inserisci i campi mancanti!",
+  "mail_not_correct": "Perfavore, inserisci una mail corretta!",
+  "login_error": "Prova a controllare la tua password ;)",
+  "dont_have_an_account": "Non hai un account?",
+  "create_one": "Creane uno!",
+  "already_have_an_account": "Hai già un account?",
+  "passwords_dont_match": "Le password non combaciano, assicurati che siano uguali :)",
+  "password_too_short": "La password è troppo corta! come il tuo pipo :)",
+  "email_already_exists": "Questa email è già presa prova con un altra! :)",
+  "try_another_username": "Questo username non va bene :( \nprova con un altro!",
+  "insert_name": "Inserisci il tuo nome, è obbligatorio! :(",
+  "lets_get_things_ready": "Prepariamoci per il tuo viaggio!",
+  "your_name": "Il tuo nome",
+  "your_bio": "La tua bio...",
+  "add_location": "Aggiungi indirizzo",
+  "incorrect_credentials": "Le credenziali che hai inserito non sono corrette",
+  "write_something_cool": "Scrivi qualcosa di figo...",
+  "no_key_selected": "Seleziona o crea una key per scattare!"
+}
